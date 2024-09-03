@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ramnath05583273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramnath05583273" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ramnath nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramnath nayak" height="30" width="40" /></a>
 <a href="https://instagram.com/ramnathnayak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramnathnayak_" height="30" width="40" /></a>
+<a href="https://twitter.com/ramnath05583273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramnath05583273" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ramnathnayak22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramnathnayak22" height="30" width="40" /></a>
 </p>
 
