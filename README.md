@@ -14,7 +14,7 @@
 - 📄 Know about my experiences:
 [Click Here](https://drive.google.com/file/d/1JimPkPWkUwweJyC9idA3Z-xUgiA-s06q/view?usp=sharing)
 
-- ⚡ To Know more:**
+- ⚡ To Know more:
 [Click Here](https://ramnathnayak.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
