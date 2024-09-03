@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramnathnayak07&label=Profile%20views&color=0e75b6&style=flat" alt="ramnathnayak07" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ramnath-nayak-707777240/" target="blank"><img src="https://img.shields.io/badge/Follow%20%40Ramnath%20Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ramnath-nayak-707777240/" target="blank"><img src="https://img.shields.io/badge/Follow%20%40Ramnath%20Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a> alt="ramnath05583273"</p>
 
 - 🌱 I’m currently learning **React**
 
