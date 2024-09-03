@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramnath Nayak</h1>
-<h3 align="center">A Passionate Software developer from Udupi, Karanataka, India</h3>
+<h1 align="center">Heyy!! I'm Ramnath Nayak</h1>
+<h3 align="center">Aspiring Software developer from Udupi, Karanataka, India</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 
@@ -7,14 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ramnath05583273" target="blank"><img src="https://img.shields.io/twitter/follow/ramnath05583273?logo=twitter&style=for-the-badge" alt="ramnath05583273" /></a> </p>
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ramnathnayak22@gmail.com**
 
 - 📄 Know about my experiences:
 [Click Here](https://drive.google.com/file/d/1JimPkPWkUwweJyC9idA3Z-xUgiA-s06q/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm funny 😉**
+- ⚡ To Know more:**
+[Click Here](https://ramnathnayak.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
