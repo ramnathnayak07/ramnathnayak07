@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Ramnath Nayak</h1>
 <h3 align="center">Aspiring Software Developer from Udupi, Karnataka, India 🌍</h3>
 
-<div align="centre">
+<div align="center">
   <img src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif" alt="coding" width="300" />
 </div>
 
